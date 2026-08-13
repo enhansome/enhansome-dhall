@@ -1,0 +1,1055 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dhall-haskell",
+          "description": "Haskell language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-rust",
+          "description": "Rust language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-09T21:37:54Z",
+            "owner": "Nadrieril",
+            "repo": "dhall-rust",
+            "stars": 338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhallj",
+          "description": "Java language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2024-08-15T20:40:53Z",
+            "owner": "travisbrown",
+            "repo": "dhallj",
+            "stars": 178
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-golang",
+          "description": "Go language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2023-02-25T02:40:30Z",
+            "owner": "philandstuff",
+            "repo": "dhall-golang",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-purescript",
+          "description": "PureScript language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PureScript",
+            "last_commit": "2023-02-04T12:41:34Z",
+            "owner": "MonoidMusician",
+            "repo": "dhall-purescript",
+            "stars": 98
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-clj",
+          "description": "Clojure language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Clojure",
+            "last_commit": "2019-04-16T06:03:11Z",
+            "owner": "f-f",
+            "repo": "dhall-clj",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-python",
+          "description": "Python language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-11-26T18:21:40Z",
+            "owner": "s-zeng",
+            "repo": "dhall-python",
+            "stars": 51
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "idrall",
+          "description": "Idris language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Idris",
+            "last_commit": "2025-08-14T13:15:06Z",
+            "owner": "alexhumphreys",
+            "repo": "idrall",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scall",
+          "description": "Scala language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Scala",
+            "last_commit": "2026-06-18T11:32:47Z",
+            "owner": "winitzki",
+            "repo": "scall",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-unison",
+          "description": "Unison language support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-01-28T20:58:47Z",
+            "owner": "hagl",
+            "repo": "dhall-unison",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "Binding"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dhall-json",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-yaml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-nix",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-bash",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-toml",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-csv",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-to-cabal",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-12-26T20:23:22Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-to-cabal",
+            "stars": 102
+          }
+        }
+      ],
+      "title": "Output Formats"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dhall-prelude",
+          "description": "Standard Libraries for dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T18:47:36Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-lang",
+            "stars": 4476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-kubernetes",
+          "description": "Typecheck, template and modularize your Kubernetes definitions with Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-03-29T23:35:04Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-kubernetes",
+            "stars": 650
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "regadas/github-actions-dhall",
+          "description": "Typecheck, template and modularize your GitHub Action definitions with Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2025-02-01T04:23:23Z",
+            "owner": "regadas",
+            "repo": "github-actions-dhall",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-ansible",
+          "description": "Dhall types for Ansible.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2024-06-30T13:20:08Z",
+            "owner": "softwarefactory-project",
+            "repo": "dhall-ansible",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dada",
+          "description": "Recursion schemes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2026-06-20T08:01:02Z",
+            "owner": "sellout",
+            "repo": "dada",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-bhat",
+          "description": "Abstractions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-08-16T17:24:59Z",
+            "owner": "FormationAI",
+            "repo": "dhall-bhat",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vmchale/github-actions-dhall",
+          "description": "Dhall helpers for GitHub actions.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dhall",
+            "last_commit": "2023-11-08T15:53:20Z",
+            "owner": "vmchale",
+            "repo": "github-actions-dhall",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bgamari/dhall-gitlab-ci",
+          "description": "Dhall types for GitLab CI/CD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-11-13T23:02:12Z",
+            "owner": "bgamari",
+            "repo": "dhall-gitlab-ci",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-terraform",
+          "description": "Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-11-28T20:51:07Z",
+            "owner": "blast-hardcheese",
+            "repo": "dhall-terraform",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-nethack",
+          "description": "Generate NetHack configurations using Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2021-07-22T10:16:06Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-nethack",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-dot",
+          "description": "Dhall types and renderer for the DOT Graph description language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2022-09-05T01:29:38Z",
+            "owner": "Gabriella439",
+            "repo": "dhall-dot",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-containerfile",
+          "description": "Dhall types for Containerfile.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2021-10-26T14:28:18Z",
+            "owner": "softwarefactory-project",
+            "repo": "dhall-containerfile",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-aws-cloudformation",
+          "description": "Dhall types for AWS CloudFormation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2024-03-03T01:28:59Z",
+            "owner": "jcouyang",
+            "repo": "dhall-aws-cloudformation",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-grafana",
+          "description": "Build Grafana dashboards with Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2024-01-24T18:29:39Z",
+            "owner": "weeezes",
+            "repo": "dhall-grafana",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-docker-compose",
+          "description": "A library for writing Docker Compose files in Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-07-31T21:04:52Z",
+            "owner": "sbdchd",
+            "repo": "dhall-docker-compose",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-nomad",
+          "description": "Dhall types for HashiCorp's Nomad job scheduler",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2024-03-25T19:32:00Z",
+            "owner": "seatgeek",
+            "repo": "dhall-nomad",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-concourse",
+          "description": "Dhall types for Concourse.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dhall",
+            "last_commit": "2021-12-09T14:08:09Z",
+            "owner": "coralogix",
+            "repo": "dhall-concourse",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-prometheus-operator",
+          "description": "Dhall types for the Prometheus Operator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-10-02T13:47:09Z",
+            "owner": "coralogix",
+            "repo": "dhall-prometheus-operator",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-semver",
+          "description": "Dhall support for semantic version numbers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2021-09-02T04:56:57Z",
+            "owner": "Gabriella439",
+            "repo": "dhall-semver",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-openssl",
+          "description": "Generate a type-safe openssl configuration file with dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-08-25T12:04:51Z",
+            "owner": "jvanbruegge",
+            "repo": "dhall-openssl",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-text-utils",
+          "description": "Utilities for validating and modifying Text values.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2024-06-11T06:58:51Z",
+            "owner": "kukimik",
+            "repo": "dhall-text-utils",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-kops",
+          "description": "Dhall types for Kops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-03-05T16:10:42Z",
+            "owner": "coralogix",
+            "repo": "dhall-kops",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nats.dhall",
+          "description": "Dhall types to setup NATS.io on Kubernetes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2020-10-14T23:06:19Z",
+            "owner": "wallyqs",
+            "repo": "nats.dhall",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-resume",
+          "description": "Dhall bindings to the JSON Resume schema.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2025-11-21T00:16:22Z",
+            "owner": "gaelreyrol",
+            "repo": "dhall-resume",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-prometheus",
+          "description": "Dhall bindings to Prometheus configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-04T19:24:31Z",
+            "owner": "softwarefactory-project",
+            "repo": "dhall-prometheus",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-security-txt",
+          "description": "Generate standard-compliant security.txt files using Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-03-12T11:47:31Z",
+            "owner": "coralogix",
+            "repo": "dhall-security-txt",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-kong",
+          "description": "Dhall types definition for Kong declarative configuration file.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2019-05-01T09:40:51Z",
+            "owner": "RyanSiu1995",
+            "repo": "dhall-kong",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-sgf",
+          "description": "Dhall support for the Smart Game Format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2020-09-07T20:35:11Z",
+            "owner": "TristanCacqueray",
+            "repo": "dhall-sgf",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fourmolu-dhall",
+          "description": "Dhall library for configuring the Fourmolu Haskell source code formatter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-01-17T10:59:53Z",
+            "owner": "Choi-Suhyeon",
+            "repo": "fourmolu-dhall",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-tsconfig",
+          "description": "Dhall bindings for TSConfig.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2022-03-05T02:31:44Z",
+            "owner": "maxdeviant",
+            "repo": "dhall-tsconfig",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-openstacksdk",
+          "description": "Dhall types for OpenStack clouds.yaml.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2021-03-15T14:52:08Z",
+            "owner": "softwarefactory-project",
+            "repo": "dhall-openstacksdk",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-semaphore",
+          "description": "Dhall bindings for Semaphore CI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2021-06-08T03:52:21Z",
+            "owner": "maxdeviant",
+            "repo": "dhall-semaphore",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-spinnaker",
+          "description": "Dhall bindings to the Spinnaker Pipeline API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dhall",
+            "last_commit": "2021-01-22T15:00:01Z",
+            "owner": "zendesk",
+            "repo": "dhall-spinnaker",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-rook",
+          "description": "Dhall bindings for Rook.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Nix",
+            "last_commit": "2024-11-05T21:41:12Z",
+            "owner": "jbellerb",
+            "repo": "dhall-rook",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-awsdac",
+          "description": "Dhall library for awsdac to define AWS architecture diagrams as code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-05-30T10:14:58Z",
+            "owner": "ikaro1192",
+            "repo": "dhall-awsdac",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-html",
+          "description": "Dhall library for generating HTML.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-07-08T05:53:20Z",
+            "owner": "fjij",
+            "repo": "dhall-html",
+            "stars": 0
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-css",
+          "description": "Dhall library for generating CSS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-07-08T05:41:07Z",
+            "owner": "fjij",
+            "repo": "dhall-css",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Xe/site",
+          "description": "a personal site using Dhall in a substantial way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "MDX",
+            "last_commit": "2026-08-12T10:08:25Z",
+            "owner": "Xe",
+            "repo": "site",
+            "stars": 729
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "podenv",
+          "description": "A container runtime wrapper using Dhall to define functional environments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2026-08-11T07:00:39Z",
+            "owner": "podenv",
+            "repo": "podenv",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpkg",
+          "description": "A build tool/package manager for C, configured with Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dhall",
+            "last_commit": "2023-11-06T16:08:42Z",
+            "owner": "vmchale",
+            "repo": "cpkg",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RuneSlayer",
+          "description": "A role-playing game meant to help learning a natural language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2019-11-17T19:07:37Z",
+            "owner": "MaxOw",
+            "repo": "RuneSlayer",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hpack-dhall",
+          "description": "Convert Haskell package descriptions in Dhall to the Cabal format.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-06-10T20:13:00Z",
+            "owner": "cabalism",
+            "repo": "hpack-dhall",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-mock",
+          "description": "A HTTP mock server based on Dhall configuration.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2020-10-16T13:51:08Z",
+            "owner": "dhall-mock",
+            "repo": "dhall-mock",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "resume",
+          "description": "Generate résumé in a number of formats from a Dhall specification.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2023-09-05T03:48:35Z",
+            "owner": "s-zeng",
+            "repo": "resume",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "updo",
+          "description": "From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-03-28T18:16:16Z",
+            "owner": "up-do",
+            "repo": "updo",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cv-static",
+          "description": "Generate CV in HTML and PDF using Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2022-05-02T21:06:43Z",
+            "owner": "mstksg",
+            "repo": "cv-static",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "approportionment",
+          "description": "Yee diagram generator for multi-winner electoral methods designed for proportional representation, configured with Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-05-31T14:02:18Z",
+            "owner": "akazukin5151",
+            "repo": "approportionment",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grafdhall",
+          "description": "Takes Grafana dashboards in Dhall format, and submits them to a Grafana service.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Haskell",
+            "last_commit": "2022-10-20T14:08:07Z",
+            "owner": "softwarefactory-project",
+            "repo": "grafdhall",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Projects"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "dhall-lsp-server",
+          "description": "Language Server Protocol server for Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2026-08-10T13:25:03Z",
+            "owner": "dhall-lang",
+            "repo": "dhall-haskell",
+            "stars": 968
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-vim",
+          "description": "Syntax highlighting in Vim for Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-05-18T16:29:07Z",
+            "owner": "vmchale",
+            "repo": "dhall-vim",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-mode",
+          "description": "Dhall language support in Emacs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Emacs Lisp",
+            "last_commit": "2025-01-05T14:18:48Z",
+            "owner": "psibi",
+            "repo": "dhall-mode",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-language-dhall",
+          "description": "Dhall Syntax Highlighting for VS Code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-03-02T12:30:55Z",
+            "owner": "dhall-lang",
+            "repo": "vscode-language-dhall",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vscode-dhall-lsp-server",
+          "description": "VSCode plugin that provides Language Server Protocol support for Dhall.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2023-04-11T03:00:33Z",
+            "owner": "dhall-lang",
+            "repo": "vscode-dhall-lsp-server",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "atom-language-dhall",
+          "description": "Dhall language support in Atom.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-04-16T01:11:52Z",
+            "owner": "jmitchell",
+            "repo": "atom-language-dhall",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-sublime-syntax-highlighting",
+          "description": "Dhall syntax highlighting for Sublime Text.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dhall",
+            "last_commit": "2025-10-12T20:15:47Z",
+            "owner": "kukimik",
+            "repo": "dhall-sublime-syntax-highlighting",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Text Editor Support"
+    },
+    {
+      "description": "Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list! Please conduct the CONTRIBUTING.md before submitting the pull request.",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T14:09:12.807Z",
+    "original_repository": "dhall-lang/awesome-dhall",
+    "original_repository_sha": "b29305c3054e34ee73756563a9de3ccfd4d11bb5",
+    "enhanced_repository": "enhansome/enhansome-dhall",
+    "enhanced_repository_description": null,
+    "title": "Awesome Dhall-Lang with stars"
+  }
+}
