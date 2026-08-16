@@ -92,7 +92,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 729 | 🐛 10 | 🌐 MDX | 📅 2026-08-14 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 729 | 🐛 10 | 🌐 MDX | 📅 2026-08-15 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 84 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._

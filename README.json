@@ -785,7 +785,7 @@
           "repo_info": {
             "archived": false,
             "language": "MDX",
-            "last_commit": "2026-08-14T10:09:00Z",
+            "last_commit": "2026-08-15T18:14:38Z",
             "owner": "Xe",
             "repo": "site",
             "stars": 729
@@ -1045,7 +1045,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T13:18:26.385Z",
+    "last_updated": "2026-08-16T13:19:45.850Z",
     "original_repository": "dhall-lang/awesome-dhall",
     "original_repository_sha": "b29305c3054e34ee73756563a9de3ccfd4d11bb5",
     "enhanced_repository": "enhansome/enhansome-dhall",
