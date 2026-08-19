@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -24,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173192890,
             "language": "Rust",
             "last_commit": "2026-07-09T21:37:54Z",
             "owner": "Nadrieril",
@@ -38,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 250537970,
             "language": "Java",
             "last_commit": "2024-08-15T20:40:53Z",
             "owner": "travisbrown",
@@ -52,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169641431,
             "language": "Go",
             "last_commit": "2023-02-25T02:40:30Z",
             "owner": "philandstuff",
@@ -66,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 140974586,
             "language": "PureScript",
             "last_commit": "2023-02-04T12:41:34Z",
             "owner": "MonoidMusician",
@@ -80,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 126093610,
             "language": "Clojure",
             "last_commit": "2019-04-16T06:03:11Z",
             "owner": "f-f",
@@ -94,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308711807,
             "language": "Rust",
             "last_commit": "2024-11-26T18:21:40Z",
             "owner": "s-zeng",
@@ -108,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 254448176,
             "language": "Idris",
             "last_commit": "2025-08-14T13:15:06Z",
             "owner": "alexhumphreys",
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 711241059,
             "language": "Scala",
             "last_commit": "2026-06-18T11:32:47Z",
             "owner": "winitzki",
@@ -136,6 +145,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 425233505,
             "language": null,
             "last_commit": "2024-01-28T20:58:47Z",
             "owner": "hagl",
@@ -147,7 +157,7 @@
       "title": "Binding"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -156,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -170,6 +181,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -184,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -198,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -212,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -226,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -240,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118008660,
             "language": "Haskell",
             "last_commit": "2022-12-26T20:23:22Z",
             "owner": "dhall-lang",
@@ -251,7 +268,7 @@
       "title": "Output Formats"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -260,6 +277,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 102303588,
             "language": "Dhall",
             "last_commit": "2026-08-10T18:47:36Z",
             "owner": "dhall-lang",
@@ -274,6 +292,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 104218323,
             "language": "Dhall",
             "last_commit": "2026-03-29T23:35:04Z",
             "owner": "dhall-lang",
@@ -288,6 +307,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 257023239,
             "language": "Dhall",
             "last_commit": "2025-02-01T04:23:23Z",
             "owner": "regadas",
@@ -302,6 +322,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 231997394,
             "language": "Dhall",
             "last_commit": "2024-06-30T13:20:08Z",
             "owner": "softwarefactory-project",
@@ -316,6 +337,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 124302601,
             "language": "Nix",
             "last_commit": "2026-06-20T08:01:02Z",
             "owner": "sellout",
@@ -330,6 +352,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 125271724,
             "language": "Shell",
             "last_commit": "2023-08-16T17:24:59Z",
             "owner": "FormationAI",
@@ -344,6 +367,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 226202687,
             "language": "Dhall",
             "last_commit": "2023-11-08T15:53:20Z",
             "owner": "vmchale",
@@ -358,6 +382,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 277170647,
             "language": "Dhall",
             "last_commit": "2023-11-13T23:02:12Z",
             "owner": "bgamari",
@@ -372,6 +397,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 131544563,
             "language": null,
             "last_commit": "2018-11-28T20:51:07Z",
             "owner": "blast-hardcheese",
@@ -386,6 +412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 158979479,
             "language": "Dhall",
             "last_commit": "2021-07-22T10:16:06Z",
             "owner": "dhall-lang",
@@ -400,6 +427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 291328489,
             "language": "Dhall",
             "last_commit": "2022-09-05T01:29:38Z",
             "owner": "Gabriella439",
@@ -414,6 +442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 283874515,
             "language": "Dhall",
             "last_commit": "2021-10-26T14:28:18Z",
             "owner": "softwarefactory-project",
@@ -428,6 +457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349661232,
             "language": "Haskell",
             "last_commit": "2024-03-03T01:28:59Z",
             "owner": "jcouyang",
@@ -442,6 +472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 220180967,
             "language": "Dhall",
             "last_commit": "2024-01-24T18:29:39Z",
             "owner": "weeezes",
@@ -456,6 +487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196123660,
             "language": "Dhall",
             "last_commit": "2026-07-31T21:04:52Z",
             "owner": "sbdchd",
@@ -470,6 +502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 348695948,
             "language": "Dhall",
             "last_commit": "2024-03-25T19:32:00Z",
             "owner": "seatgeek",
@@ -484,6 +517,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 171278918,
             "language": "Dhall",
             "last_commit": "2021-12-09T14:08:09Z",
             "owner": "coralogix",
@@ -498,6 +532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 176147156,
             "language": "Dhall",
             "last_commit": "2023-10-02T13:47:09Z",
             "owner": "coralogix",
@@ -512,6 +547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 207012546,
             "language": "Dhall",
             "last_commit": "2021-09-02T04:56:57Z",
             "owner": "Gabriella439",
@@ -526,6 +562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 245179511,
             "language": "Dhall",
             "last_commit": "2023-08-25T12:04:51Z",
             "owner": "jvanbruegge",
@@ -540,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 732349875,
             "language": "Dhall",
             "last_commit": "2024-06-11T06:58:51Z",
             "owner": "kukimik",
@@ -554,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 196188553,
             "language": "Dhall",
             "last_commit": "2023-03-05T16:10:42Z",
             "owner": "coralogix",
@@ -568,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 244581300,
             "language": "Dhall",
             "last_commit": "2020-10-14T23:06:19Z",
             "owner": "wallyqs",
@@ -582,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 510376742,
             "language": "Dhall",
             "last_commit": "2025-11-21T00:16:22Z",
             "owner": "gaelreyrol",
@@ -596,6 +637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 242251402,
             "language": "Dhall",
             "last_commit": "2026-08-04T19:24:31Z",
             "owner": "softwarefactory-project",
@@ -610,6 +652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 198467334,
             "language": "Dhall",
             "last_commit": "2023-03-12T11:47:31Z",
             "owner": "coralogix",
@@ -624,6 +667,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 182956727,
             "language": "Makefile",
             "last_commit": "2019-05-01T09:40:51Z",
             "owner": "RyanSiu1995",
@@ -638,6 +682,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 293626108,
             "language": "Dhall",
             "last_commit": "2020-09-07T20:35:11Z",
             "owner": "TristanCacqueray",
@@ -652,6 +697,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1116866139,
             "language": "Dhall",
             "last_commit": "2026-01-17T10:59:53Z",
             "owner": "Choi-Suhyeon",
@@ -666,6 +712,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374378644,
             "language": "Dhall",
             "last_commit": "2022-03-05T02:31:44Z",
             "owner": "maxdeviant",
@@ -680,6 +727,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 311779272,
             "language": "Dhall",
             "last_commit": "2021-03-15T14:52:08Z",
             "owner": "softwarefactory-project",
@@ -694,6 +742,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 374840225,
             "language": "Dhall",
             "last_commit": "2021-06-08T03:52:21Z",
             "owner": "maxdeviant",
@@ -708,6 +757,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 304379636,
             "language": "Dhall",
             "last_commit": "2021-01-22T15:00:01Z",
             "owner": "zendesk",
@@ -722,6 +772,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 522391613,
             "language": "Nix",
             "last_commit": "2024-11-05T21:41:12Z",
             "owner": "jbellerb",
@@ -736,6 +787,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1254054074,
             "language": "Dhall",
             "last_commit": "2026-05-30T10:14:58Z",
             "owner": "ikaro1192",
@@ -750,6 +802,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293068914,
             "language": "Dhall",
             "last_commit": "2026-07-08T05:53:20Z",
             "owner": "fjij",
@@ -764,6 +817,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1293107640,
             "language": "Dhall",
             "last_commit": "2026-07-08T05:41:07Z",
             "owner": "fjij",
@@ -775,7 +829,7 @@
       "title": "Libraries"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -784,6 +838,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76434408,
             "language": "MDX",
             "last_commit": "2026-08-18T10:11:31Z",
             "owner": "Xe",
@@ -798,6 +853,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 199657781,
             "language": "Haskell",
             "last_commit": "2026-08-11T07:00:39Z",
             "owner": "podenv",
@@ -812,6 +868,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 159444003,
             "language": "Dhall",
             "last_commit": "2023-11-06T16:08:42Z",
             "owner": "vmchale",
@@ -826,6 +883,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 219177627,
             "language": "Haskell",
             "last_commit": "2019-11-17T19:07:37Z",
             "owner": "MaxOw",
@@ -840,6 +898,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 119285014,
             "language": "Dhall",
             "last_commit": "2026-06-10T20:13:00Z",
             "owner": "cabalism",
@@ -854,6 +913,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 253313344,
             "language": "Rust",
             "last_commit": "2020-10-16T13:51:08Z",
             "owner": "dhall-mock",
@@ -868,6 +928,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 308926516,
             "language": "Dhall",
             "last_commit": "2023-09-05T03:48:35Z",
             "owner": "s-zeng",
@@ -882,6 +943,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 666106468,
             "language": "Dhall",
             "last_commit": "2026-03-28T18:16:16Z",
             "owner": "up-do",
@@ -896,6 +958,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 225152334,
             "language": "Dhall",
             "last_commit": "2022-05-02T21:06:43Z",
             "owner": "mstksg",
@@ -910,6 +973,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 573482733,
             "language": "Rust",
             "last_commit": "2024-05-31T14:02:18Z",
             "owner": "akazukin5151",
@@ -924,6 +988,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 350760679,
             "language": "Haskell",
             "last_commit": "2022-10-20T14:08:07Z",
             "owner": "softwarefactory-project",
@@ -935,7 +1000,7 @@
       "title": "Projects"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -944,6 +1009,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67623822,
             "language": "Dhall",
             "last_commit": "2026-08-18T09:16:29Z",
             "owner": "dhall-lang",
@@ -958,6 +1024,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 118291752,
             "language": "Vim Script",
             "last_commit": "2024-05-18T16:29:07Z",
             "owner": "vmchale",
@@ -972,6 +1039,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 103856360,
             "language": "Emacs Lisp",
             "last_commit": "2025-01-05T14:18:48Z",
             "owner": "psibi",
@@ -986,6 +1054,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 168256847,
             "language": "TypeScript",
             "last_commit": "2026-03-02T12:30:55Z",
             "owner": "dhall-lang",
@@ -1000,6 +1069,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 169106057,
             "language": "TypeScript",
             "last_commit": "2023-04-11T03:00:33Z",
             "owner": "dhall-lang",
@@ -1014,6 +1084,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 173012918,
             "language": null,
             "last_commit": "2020-04-16T01:11:52Z",
             "owner": "jmitchell",
@@ -1028,6 +1099,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 567007841,
             "language": "Dhall",
             "last_commit": "2025-10-12T20:15:47Z",
             "owner": "kukimik",
@@ -1037,16 +1109,12 @@
         }
       ],
       "title": "Text Editor Support"
-    },
-    {
-      "description": "Anyone who finds something interesting about dhall-lang is welcome to submit a pull request to add it to our list! Please conduct the CONTRIBUTING.md before submitting the pull request.",
-      "items": [],
-      "title": "Contributing"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T13:30:23.634Z",
+    "last_updated": "2026-08-19T12:26:25.086Z",
     "original_repository": "dhall-lang/awesome-dhall",
+    "original_repository_id": 193018751,
     "original_repository_sha": "b29305c3054e34ee73756563a9de3ccfd4d11bb5",
     "enhanced_repository": "enhansome/enhansome-dhall",
     "enhanced_repository_description": null,
