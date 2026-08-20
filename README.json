@@ -12,7 +12,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -168,7 +168,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -198,7 +198,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -213,7 +213,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -228,7 +228,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -243,7 +243,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -279,10 +279,10 @@
             "archived": false,
             "id": 102303588,
             "language": "Dhall",
-            "last_commit": "2026-08-10T18:47:36Z",
+            "last_commit": "2026-08-19T19:12:36Z",
             "owner": "dhall-lang",
             "repo": "dhall-lang",
-            "stars": 4478
+            "stars": 4479
           }
         },
         {
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 76434408,
             "language": "MDX",
-            "last_commit": "2026-08-18T10:11:31Z",
+            "last_commit": "2026-08-20T10:04:38Z",
             "owner": "Xe",
             "repo": "site",
             "stars": 729
@@ -1011,7 +1011,7 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-18T09:16:29Z",
+            "last_commit": "2026-08-20T13:26:17Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 968
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:32:08.704Z",
+    "last_updated": "2026-08-20T13:34:35.933Z",
     "original_repository": "dhall-lang/awesome-dhall",
     "original_repository_id": 193018751,
     "original_repository_sha": "b29305c3054e34ee73756563a9de3ccfd4d11bb5",
