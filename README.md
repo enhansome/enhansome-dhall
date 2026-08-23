@@ -26,7 +26,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript) ⭐ 98 | 🐛 11 | 🌐 PureScript | 📅 2023-02-04 - PureScript language support.
 * [dhall-clj](https://github.com/f-f/dhall-clj) ⭐ 76 | 🐛 7 | 🌐 Clojure | 📅 2019-04-16 - Clojure language support.
 * [dhall-python](https://github.com/s-zeng/dhall-python) ⭐ 51 | 🐛 20 | 🌐 Rust | 📅 2024-11-26 - Python language support.
-* [idrall](https://github.com/alexhumphreys/idrall) ⭐ 41 | 🐛 0 | 🌐 Idris | 📅 2025-08-14 - Idris language support.
+* [idrall](https://github.com/alexhumphreys/idrall) ⭐ 42 | 🐛 0 | 🌐 Idris | 📅 2025-08-14 - Idris language support.
 * [scall](https://github.com/winitzki/scall) ⭐ 12 | 🐛 2 | 🌐 Scala | 📅 2026-06-18 - Scala language support.
 * [dhall-unison](https://github.com/hagl/dhall-unison) ⭐ 7 | 🐛 4 | 📅 2024-01-28 - Unison language support.
 * [dhall-ruby](https://git.sr.ht/~singpolyma/dhall-ruby) - Ruby language support.
@@ -49,7 +49,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,476 | 🐛 169 | 🌐 Dhall | 📅 2026-08-20 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,475 | 🐛 168 | 🌐 Dhall | 📅 2026-08-20 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 649 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 * [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 126 | 🐛 11 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
