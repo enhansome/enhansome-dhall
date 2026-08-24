@@ -572,6 +572,21 @@
         },
         {
           "node_type": "item",
+          "title": "dhall-kops",
+          "description": "Dhall types for Kops.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 196188553,
+            "language": "Dhall",
+            "last_commit": "2023-03-05T16:10:42Z",
+            "owner": "coralogix",
+            "repo": "dhall-kops",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
           "title": "dhall-text-utils",
           "description": "Utilities for validating and modifying Text values.",
           "children": [],
@@ -583,21 +598,6 @@
             "owner": "kukimik",
             "repo": "dhall-text-utils",
             "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "dhall-kops",
-          "description": "Dhall types for Kops.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 196188553,
-            "language": "Dhall",
-            "last_commit": "2023-03-05T16:10:42Z",
-            "owner": "coralogix",
-            "repo": "dhall-kops",
-            "stars": 7
           }
         },
         {
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 76434408,
             "language": "MDX",
-            "last_commit": "2026-08-20T10:04:38Z",
+            "last_commit": "2026-08-24T10:08:47Z",
             "owner": "Xe",
             "repo": "site",
             "stars": 729
@@ -1112,7 +1112,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T13:21:08.662Z",
+    "last_updated": "2026-08-24T13:38:30.809Z",
     "original_repository": "dhall-lang/awesome-dhall",
     "original_repository_id": 193018751,
     "original_repository_sha": "b29305c3054e34ee73756563a9de3ccfd4d11bb5",

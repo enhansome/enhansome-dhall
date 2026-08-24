@@ -49,7 +49,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,475 | 🐛 168 | 🌐 Dhall | 📅 2026-08-20 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,475 | 🐛 166 | 🌐 Dhall | 📅 2026-08-20 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 649 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 * [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 126 | 🐛 11 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
@@ -69,15 +69,15 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-prometheus-operator](https://github.com/coralogix/dhall-prometheus-operator) ⭐ 17 | 🐛 1 | 🌐 Dhall | 📅 2023-10-02 - Dhall types for the Prometheus Operator.
 * [dhall-semver](https://github.com/Gabriella439/dhall-semver) ⭐ 15 | 🐛 0 | 🌐 Dhall | 📅 2021-09-02 - Dhall support for [semantic version numbers](https://semver.org/).
 * [dhall-openssl](https://github.com/jvanbruegge/dhall-openssl) ⭐ 14 | 🐛 0 | 🌐 Dhall | 📅 2023-08-25 - Generate a type-safe openssl configuration file with dhall.
+* [dhall-kops](https://github.com/coralogix/dhall-kops) ⭐ 8 | 🐛 0 | 🌐 Dhall | 📅 2023-03-05 - Dhall types for Kops.
 * [dhall-text-utils](https://github.com/kukimik/dhall-text-utils) ⭐ 8 | 🐛 2 | 🌐 Dhall | 📅 2024-06-11 - Utilities for validating and modifying Text values.
-* [dhall-kops](https://github.com/coralogix/dhall-kops) ⭐ 7 | 🐛 0 | 🌐 Dhall | 📅 2023-03-05 - Dhall types for Kops.
 * [nats.dhall](https://github.com/wallyqs/nats.dhall) ⭐ 6 | 🐛 1 | 🌐 Dhall | 📅 2020-10-14 - Dhall types to setup NATS.io on Kubernetes.
 * [dhall-resume](https://github.com/gaelreyrol/dhall-resume) ⭐ 6 | 🐛 1 | 🌐 Dhall | 📅 2025-11-21 - Dhall bindings to the [JSON Resume](https://jsonresume.org) schema.
 * [dhall-prometheus](https://github.com/softwarefactory-project/dhall-prometheus) ⭐ 6 | 🐛 0 | 🌐 Dhall | 📅 2026-08-04 - Dhall bindings to Prometheus configuration.
 * [dhall-security-txt](https://github.com/coralogix/dhall-security-txt) ⭐ 5 | 🐛 0 | 🌐 Dhall | 📅 2023-03-12 - Generate standard-compliant [security.txt](https://securitytxt.org/) files using Dhall.
 * [dhall-kong](https://github.com/RyanSiu1995/dhall-kong) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2019-05-01 - Dhall types definition for Kong declarative configuration file.
 * [dhall-sgf](https://github.com/TristanCacqueray/dhall-sgf) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2020-09-07 - Dhall support for the Smart Game Format.
-* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 455 | 🐛 84 | 🌐 Haskell | 📅 2026-08-20 Haskell source code formatter.
+* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 455 | 🐛 85 | 🌐 Haskell | 📅 2026-08-23 Haskell source code formatter.
 * [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) ⭐ 1 | 🐛 0 | 🌐 Dhall | 📅 2022-03-05 - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
 * [dhall-openstacksdk](https://github.com/softwarefactory-project/dhall-openstacksdk) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-03-15 - Dhall types for OpenStack clouds.yaml.
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
@@ -92,7 +92,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 729 | 🐛 7 | 🌐 MDX | 📅 2026-08-20 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 729 | 🐛 8 | 🌐 MDX | 📅 2026-08-24 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 85 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
@@ -117,7 +117,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Miscellaneous
 
-* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 742 | 🐛 22 | 🌐 Haskell | 📅 2026-05-04 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
+* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 742 | 🐛 23 | 🌐 Haskell | 📅 2026-05-04 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
 
 ## Contributing
 
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
