@@ -19,12 +19,12 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Binding
 
-* [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22 - Haskell language support.
+* [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25 - Haskell language support.
 * [dhall-rust](https://github.com/Nadrieril/dhall-rust) ⭐ 338 | 🐛 11 | 🌐 Rust | 📅 2026-07-09 - Rust language support.
 * [dhallj](https://github.com/travisbrown/dhallj) ⭐ 178 | 🐛 45 | 🌐 Java | 📅 2024-08-15 - Java language support.
 * [dhall-golang](https://github.com/philandstuff/dhall-golang) ⭐ 123 | 🐛 12 | 🌐 Go | 📅 2023-02-25 - Go language support.
-* [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript) ⭐ 98 | 🐛 11 | 🌐 PureScript | 📅 2023-02-04 - PureScript language support.
-* [dhall-clj](https://github.com/f-f/dhall-clj) ⭐ 76 | 🐛 7 | 🌐 Clojure | 📅 2019-04-16 - Clojure language support.
+* [dhall-purescript](https://github.com/MonoidMusician/dhall-purescript) ⭐ 99 | 🐛 11 | 🌐 PureScript | 📅 2023-02-04 - PureScript language support.
+* [dhall-clj](https://github.com/f-f/dhall-clj) ⭐ 77 | 🐛 7 | 🌐 Clojure | 📅 2019-04-16 - Clojure language support.
 * [dhall-python](https://github.com/s-zeng/dhall-python) ⭐ 51 | 🐛 20 | 🌐 Rust | 📅 2024-11-26 - Python language support.
 * [idrall](https://github.com/alexhumphreys/idrall) ⭐ 42 | 🐛 0 | 🌐 Idris | 📅 2025-08-14 - Idris language support.
 * [scall](https://github.com/winitzki/scall) ⭐ 12 | 🐛 2 | 🌐 Scala | 📅 2026-06-18 - Scala language support.
@@ -38,12 +38,12 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Output Formats
 
-* [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
-* [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-yaml) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
-* [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
-* [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
-* [dhall-toml](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-toml) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
-* [dhall-csv](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-csv) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22
+* [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
+* [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-yaml) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
+* [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
+* [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
+* [dhall-toml](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-toml) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
+* [dhall-csv](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-csv) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25
 * [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal) ⭐ 102 | 🐛 22 | 🌐 Haskell | 📅 2022-12-26
 * [dhall-xml-ruby](https://git.sr.ht/~singpolyma/dhall-xml-ruby)
 
@@ -107,7 +107,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Text Editor Support
 
-* [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-22 - Language Server Protocol server for Dhall.
+* [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) ⭐ 967 | 🐛 168 | 🌐 Dhall | 📅 2026-08-25 - Language Server Protocol server for Dhall.
 * [dhall-vim](https://github.com/vmchale/dhall-vim) ⭐ 69 | 🐛 2 | 🌐 Vim Script | 📅 2024-05-18 - Syntax highlighting in Vim for Dhall.
 * [dhall-mode](https://github.com/psibi/dhall-mode) ⭐ 46 | 🐛 8 | 🌐 Emacs Lisp | 📅 2025-01-05 - Dhall language support in Emacs.
 * [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-02 - Dhall Syntax Highlighting for VS Code.
