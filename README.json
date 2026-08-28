@@ -12,11 +12,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "Nadrieril",
             "repo": "dhall-rust",
             "stars": 339
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "travisbrown",
             "repo": "dhallj",
             "stars": 178
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "philandstuff",
             "repo": "dhall-golang",
             "stars": 123
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "MonoidMusician",
             "repo": "dhall-purescript",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "f-f",
             "repo": "dhall-clj",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "s-zeng",
             "repo": "dhall-python",
             "stars": 51
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "alexhumphreys",
             "repo": "idrall",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "winitzki",
             "repo": "scall",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "hagl",
             "repo": "dhall-unison",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         }
       ],
       "title": "Binding"
@@ -168,11 +178,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -183,11 +194,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -213,11 +226,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -228,11 +242,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -243,11 +258,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -262,7 +278,8 @@
             "owner": "dhall-lang",
             "repo": "dhall-to-cabal",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         }
       ],
       "title": "Output Formats"
@@ -283,7 +300,8 @@
             "owner": "dhall-lang",
             "repo": "dhall-lang",
             "stars": 4477
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -298,7 +316,8 @@
             "owner": "dhall-lang",
             "repo": "dhall-kubernetes",
             "stars": 649
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -313,7 +332,8 @@
             "owner": "regadas",
             "repo": "github-actions-dhall",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -328,7 +348,8 @@
             "owner": "softwarefactory-project",
             "repo": "dhall-ansible",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -343,7 +364,8 @@
             "owner": "sellout",
             "repo": "dada",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -358,7 +380,8 @@
             "owner": "FormationAI",
             "repo": "dhall-bhat",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -373,7 +396,8 @@
             "owner": "vmchale",
             "repo": "github-actions-dhall",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -388,7 +412,8 @@
             "owner": "bgamari",
             "repo": "dhall-gitlab-ci",
             "stars": 50
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -403,7 +428,8 @@
             "owner": "blast-hardcheese",
             "repo": "dhall-terraform",
             "stars": 48
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -418,7 +444,8 @@
             "owner": "dhall-lang",
             "repo": "dhall-nethack",
             "stars": 39
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -433,7 +460,8 @@
             "owner": "Gabriella439",
             "repo": "dhall-dot",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -448,7 +476,8 @@
             "owner": "softwarefactory-project",
             "repo": "dhall-containerfile",
             "stars": 33
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -463,7 +492,8 @@
             "owner": "jcouyang",
             "repo": "dhall-aws-cloudformation",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -478,7 +508,8 @@
             "owner": "weeezes",
             "repo": "dhall-grafana",
             "stars": 29
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -493,7 +524,8 @@
             "owner": "sbdchd",
             "repo": "dhall-docker-compose",
             "stars": 26
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -508,7 +540,8 @@
             "owner": "seatgeek",
             "repo": "dhall-nomad",
             "stars": 25
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -523,7 +556,8 @@
             "owner": "coralogix",
             "repo": "dhall-concourse",
             "stars": 24
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -538,7 +572,8 @@
             "owner": "coralogix",
             "repo": "dhall-prometheus-operator",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "Gabriella439",
             "repo": "dhall-semver",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "jvanbruegge",
             "repo": "dhall-openssl",
             "stars": 14
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "coralogix",
             "repo": "dhall-kops",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "kukimik",
             "repo": "dhall-text-utils",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "wallyqs",
             "repo": "nats.dhall",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "gaelreyrol",
             "repo": "dhall-resume",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "softwarefactory-project",
             "repo": "dhall-prometheus",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -658,7 +700,8 @@
             "owner": "coralogix",
             "repo": "dhall-security-txt",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -673,7 +716,8 @@
             "owner": "RyanSiu1995",
             "repo": "dhall-kong",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -688,7 +732,8 @@
             "owner": "TristanCacqueray",
             "repo": "dhall-sgf",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -703,7 +748,8 @@
             "owner": "Choi-Suhyeon",
             "repo": "fourmolu-dhall",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -718,7 +764,8 @@
             "owner": "maxdeviant",
             "repo": "dhall-tsconfig",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -733,7 +780,8 @@
             "owner": "softwarefactory-project",
             "repo": "dhall-openstacksdk",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -748,7 +796,8 @@
             "owner": "maxdeviant",
             "repo": "dhall-semaphore",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -763,7 +812,8 @@
             "owner": "zendesk",
             "repo": "dhall-spinnaker",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -778,7 +828,8 @@
             "owner": "jbellerb",
             "repo": "dhall-rook",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -793,7 +844,8 @@
             "owner": "ikaro1192",
             "repo": "dhall-awsdac",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -808,7 +860,8 @@
             "owner": "fjij",
             "repo": "dhall-html",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -823,7 +876,8 @@
             "owner": "fjij",
             "repo": "dhall-css",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         }
       ],
       "title": "Libraries"
@@ -840,11 +894,12 @@
             "archived": false,
             "id": 76434408,
             "language": "MDX",
-            "last_commit": "2026-08-27T12:26:22Z",
+            "last_commit": "2026-08-28T10:04:09Z",
             "owner": "Xe",
             "repo": "site",
-            "stars": 730
-          }
+            "stars": 731
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "podenv",
             "repo": "podenv",
             "stars": 85
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "vmchale",
             "repo": "cpkg",
             "stars": 66
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "MaxOw",
             "repo": "RuneSlayer",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "cabalism",
             "repo": "hpack-dhall",
             "stars": 32
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "dhall-mock",
             "repo": "dhall-mock",
             "stars": 22
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "s-zeng",
             "repo": "resume",
             "stars": 12
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "up-do",
             "repo": "updo",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "mstksg",
             "repo": "cv-static",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "akazukin5151",
             "repo": "approportionment",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "softwarefactory-project",
             "repo": "grafdhall",
             "stars": 1
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         }
       ],
       "title": "Projects"
@@ -1011,11 +1076,12 @@
             "archived": false,
             "id": 67623822,
             "language": "Dhall",
-            "last_commit": "2026-08-27T20:04:19Z",
+            "last_commit": "2026-08-28T13:35:34Z",
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
             "stars": 970
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1030,7 +1096,8 @@
             "owner": "vmchale",
             "repo": "dhall-vim",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1045,7 +1112,8 @@
             "owner": "psibi",
             "repo": "dhall-mode",
             "stars": 46
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1060,7 +1128,8 @@
             "owner": "dhall-lang",
             "repo": "vscode-language-dhall",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1075,7 +1144,8 @@
             "owner": "dhall-lang",
             "repo": "vscode-dhall-lsp-server",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1090,7 +1160,8 @@
             "owner": "jmitchell",
             "repo": "atom-language-dhall",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         },
         {
           "node_type": "item",
@@ -1105,14 +1176,15 @@
             "owner": "kukimik",
             "repo": "dhall-sublime-syntax-highlighting",
             "stars": 2
-          }
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
         }
       ],
       "title": "Text Editor Support"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:37:20.610Z",
+    "last_updated": "2026-08-28T22:42:22.397Z",
     "original_repository_info": {
       "archived": false,
       "id": 193018751,
