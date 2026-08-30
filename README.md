@@ -19,7 +19,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Binding
 
-* [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29 - Haskell language support.
+* [dhall-haskell](https://github.com/dhall-lang/dhall-haskell) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29 - Haskell language support.
 * [dhall-rust](https://github.com/Nadrieril/dhall-rust) ⭐ 339 | 🐛 11 | 🌐 Rust | 📅 2026-07-09 - Rust language support.
 * [dhallj](https://github.com/travisbrown/dhallj) ⭐ 178 | 🐛 45 | 🌐 Java | 📅 2024-08-15 - Java language support.
 * [dhall-golang](https://github.com/philandstuff/dhall-golang) ⭐ 123 | 🐛 12 | 🌐 Go | 📅 2023-02-25 - Go language support.
@@ -38,18 +38,18 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Output Formats
 
-* [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
-* [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-yaml) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
-* [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
-* [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
-* [dhall-toml](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-toml) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
-* [dhall-csv](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-csv) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-json](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-json) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-yaml](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-yaml) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-nix](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-nix) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-bash](https://github.com/dhall-lang/dhall-haskell/tree/master/dhall-bash) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-toml](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-toml) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
+* [dhall-csv](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-csv) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29
 * [dhall-to-cabal](https://github.com/dhall-lang/dhall-to-cabal) ⭐ 102 | 🐛 22 | 🌐 Haskell | 📅 2022-12-26
 * [dhall-xml-ruby](https://git.sr.ht/~singpolyma/dhall-xml-ruby)
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,477 | 🐛 155 | 🌐 Dhall | 📅 2026-08-29 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,476 | 🐛 152 | 🌐 Dhall | 📅 2026-08-29 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 649 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 * [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 126 | 🐛 11 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
@@ -60,8 +60,8 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-terraform](https://github.com/blast-hardcheese/dhall-terraform) ⭐ 48 | 🐛 1 | 📅 2018-11-28 - Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.
 * [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) ⭐ 39 | 🐛 5 | 🌐 Dhall | 📅 2021-07-22 - Generate NetHack configurations using Dhall.
 * [dhall-dot](https://github.com/Gabriel439/dhall-dot) ⭐ 38 | 🐛 0 | 🌐 Dhall | 📅 2022-09-05 - Dhall types and renderer for the DOT Graph description language.
+* [dhall-aws-cloudformation](https://github.com/jcouyang/dhall-aws-cloudformation) ⭐ 33 | 🐛 0 | 🌐 Haskell | 📅 2024-03-03 - Dhall types for AWS CloudFormation
 * [dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile) ⭐ 33 | 🐛 1 | 🌐 Dhall | 📅 2021-10-26 - Dhall types for Containerfile.
-* [dhall-aws-cloudformation](https://github.com/jcouyang/dhall-aws-cloudformation) ⭐ 32 | 🐛 0 | 🌐 Haskell | 📅 2024-03-03 - Dhall types for AWS CloudFormation
 * [dhall-grafana](https://github.com/weeezes/dhall-grafana) ⭐ 29 | 🐛 2 | 🌐 Dhall | 📅 2024-01-24 - Build Grafana dashboards with Dhall.
 * [dhall-docker-compose](https://github.com/sbdchd/dhall-docker-compose) ⭐ 26 | 🐛 1 | 🌐 Dhall | 📅 2026-07-31 - A library for writing Docker Compose files in Dhall.
 * [dhall-nomad](https://github.com/seatgeek/dhall-nomad) ⭐ 25 | 🐛 3 | 🌐 Dhall | 📅 2024-03-25 - Dhall types for HashiCorp's Nomad job scheduler
@@ -83,7 +83,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
 * [dhall-spinnaker](https://github.com/zendesk/dhall-spinnaker) ⚠️ Archived - Dhall bindings to the Spinnaker Pipeline API.
 * [dhall-rook](https://github.com/jbellerb/dhall-rook) ⭐ 0 | 🐛 0 | 🌐 Nix | 📅 2024-11-05 - Dhall bindings for [Rook](https://rook.io/).
-* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,562 | 🐛 35 | 🌐 Go | 📅 2026-08-26 to define AWS architecture diagrams as code.
+* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,563 | 🐛 35 | 🌐 Go | 📅 2026-08-26 to define AWS architecture diagrams as code.
 * [dhall-html](https://github.com/fjij/dhall-html) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating HTML.
 * [dhall-css](https://github.com/fjij/dhall-css) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating CSS.
 * [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
@@ -107,7 +107,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Text Editor Support
 
-* [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) ⭐ 970 | 🐛 167 | 🌐 Dhall | 📅 2026-08-29 - Language Server Protocol server for Dhall.
+* [dhall-lsp-server](https://github.com/dhall-lang/dhall-haskell/tree/main/dhall-lsp-server) ⭐ 970 | 🐛 166 | 🌐 Dhall | 📅 2026-08-29 - Language Server Protocol server for Dhall.
 * [dhall-vim](https://github.com/vmchale/dhall-vim) ⭐ 69 | 🐛 2 | 🌐 Vim Script | 📅 2024-05-18 - Syntax highlighting in Vim for Dhall.
 * [dhall-mode](https://github.com/psibi/dhall-mode) ⭐ 46 | 🐛 8 | 🌐 Emacs Lisp | 📅 2025-01-05 - Dhall language support in Emacs.
 * [vscode-language-dhall](https://github.com/PanAeon/vscode-language-dhall) ⭐ 18 | 🐛 9 | 🌐 TypeScript | 📅 2026-03-02 - Dhall Syntax Highlighting for VS Code.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
