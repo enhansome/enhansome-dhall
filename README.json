@@ -19,7 +19,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "Nadrieril",
             "repo": "dhall-rust",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "configuration-language",
               "dhall",
@@ -268,7 +268,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -293,7 +293,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -318,7 +318,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -343,7 +343,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -368,7 +368,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -393,7 +393,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -658,7 +658,7 @@
             "open_issues": 5,
             "owner": "dhall-lang",
             "repo": "dhall-nethack",
-            "stars": 39,
+            "stars": 40,
             "topics": []
           },
           "first_seen": "2026-08-28T22:42:22.397Z"
@@ -1564,7 +1564,7 @@
             "open_issues": 167,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
-            "stars": 971,
+            "stars": 972,
             "topics": [
               "configuration-language",
               "dhall",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T16:46:11.052Z",
+    "last_updated": "2026-09-12T15:51:21.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
