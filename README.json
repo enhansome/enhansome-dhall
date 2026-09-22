@@ -450,7 +450,7 @@
             "open_issues": 153,
             "owner": "dhall-lang",
             "repo": "dhall-lang",
-            "stars": 4482,
+            "stars": 4483,
             "topics": [
               "configuration-language",
               "dhall"
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T18:19:36.559Z",
+    "last_updated": "2026-09-22T17:19:10.772Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
