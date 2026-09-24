@@ -77,7 +77,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-security-txt](https://github.com/coralogix/dhall-security-txt) ⭐ 5 | 🐛 0 | 🌐 Dhall | 📅 2023-03-12 - Generate standard-compliant [security.txt](https://securitytxt.org/) files using Dhall.
 * [dhall-kong](https://github.com/RyanSiu1995/dhall-kong) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2019-05-01 - Dhall types definition for Kong declarative configuration file.
 * [dhall-sgf](https://github.com/TristanCacqueray/dhall-sgf) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2020-09-07 - Dhall support for the Smart Game Format.
-* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 462 | 🐛 84 | 🌐 Haskell | 📅 2026-08-25 Haskell source code formatter.
+* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 462 | 🐛 85 | 🌐 Haskell | 📅 2026-08-25 Haskell source code formatter.
 * [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) ⭐ 1 | 🐛 0 | 🌐 Dhall | 📅 2022-03-05 - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
 * [dhall-openstacksdk](https://github.com/softwarefactory-project/dhall-openstacksdk) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-03-15 - Dhall types for OpenStack clouds.yaml.
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-24._
