@@ -15,7 +15,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -264,7 +264,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -289,7 +289,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -314,7 +314,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -339,7 +339,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -364,7 +364,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -389,7 +389,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -686,31 +686,6 @@
         },
         {
           "node_type": "item",
-          "title": "dhall-aws-cloudformation",
-          "description": "Dhall types for AWS CloudFormation",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Typecheck, template and modularize your AWS CloudFormation with Dhall ",
-            "homepage": "https://jcouyang.github.io/dhall-aws-cloudformation/package.dhall.html",
-            "id": 349661232,
-            "language": "Haskell",
-            "license": "BSD-3-Clause",
-            "last_commit": "2024-03-03T01:28:59Z",
-            "open_issues": 0,
-            "owner": "jcouyang",
-            "repo": "dhall-aws-cloudformation",
-            "stars": 33,
-            "topics": [
-              "aws",
-              "cloudformation",
-              "dhall"
-            ]
-          },
-          "first_seen": "2026-08-28T22:42:22.397Z"
-        },
-        {
-          "node_type": "item",
           "title": "dhall-containerfile",
           "description": "Dhall types for Containerfile.",
           "children": [],
@@ -730,6 +705,31 @@
               "containerfile",
               "dhall",
               "dhall-lang"
+            ]
+          },
+          "first_seen": "2026-08-28T22:42:22.397Z"
+        },
+        {
+          "node_type": "item",
+          "title": "dhall-aws-cloudformation",
+          "description": "Dhall types for AWS CloudFormation",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Typecheck, template and modularize your AWS CloudFormation with Dhall ",
+            "homepage": "https://jcouyang.github.io/dhall-aws-cloudformation/package.dhall.html",
+            "id": 349661232,
+            "language": "Haskell",
+            "license": "BSD-3-Clause",
+            "last_commit": "2024-03-03T01:28:59Z",
+            "open_issues": 0,
+            "owner": "jcouyang",
+            "repo": "dhall-aws-cloudformation",
+            "stars": 32,
+            "topics": [
+              "aws",
+              "cloudformation",
+              "dhall"
             ]
           },
           "first_seen": "2026-08-28T22:42:22.397Z"
@@ -1560,7 +1560,7 @@
             "id": 67623822,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T15:32:58Z",
+            "last_commit": "2026-10-04T10:50:22Z",
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-haskell",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T16:45:23.924Z",
+    "last_updated": "2026-10-04T17:03:27.718Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
