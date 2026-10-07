@@ -84,7 +84,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
 * [dhall-spinnaker](https://github.com/zendesk/dhall-spinnaker) ⚠️ Archived - Dhall bindings to the Spinnaker Pipeline API.
 * [dhall-rook](https://github.com/jbellerb/dhall-rook) ⭐ 0 | 🐛 0 | 🌐 Nix | 📅 2024-11-05 - Dhall bindings for [Rook](https://rook.io/).
-* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,584 | 🐛 37 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
+* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,585 | 🐛 37 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
 * [dhall-css](https://github.com/fjij/dhall-css) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating CSS.
 * [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
 * [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
@@ -117,7 +117,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Miscellaneous
 
-* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 742 | 🐛 21 | 🌐 Haskell | 📅 2026-09-27 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
+* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 743 | 🐛 21 | 🌐 Haskell | 📅 2026-09-27 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
 
 ## Contributing
 
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
