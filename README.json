@@ -450,7 +450,7 @@
             "open_issues": 155,
             "owner": "dhall-lang",
             "repo": "dhall-lang",
-            "stars": 4487,
+            "stars": 4488,
             "topics": [
               "configuration-language",
               "dhall"
@@ -1290,7 +1290,7 @@
             "id": 76434408,
             "language": "MDX",
             "license": "Zlib",
-            "last_commit": "2026-10-08T10:06:35Z",
+            "last_commit": "2026-10-09T10:06:40Z",
             "open_issues": 7,
             "owner": "Xe",
             "repo": "site",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T19:01:22.938Z",
+    "last_updated": "2026-10-09T18:31:44.799Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",

@@ -49,7 +49,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,487 | 🐛 155 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,488 | 🐛 155 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 650 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 * [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 126 | 🐛 12 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
@@ -92,7 +92,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 732 | 🐛 7 | 🌐 MDX | 📅 2026-10-08 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 732 | 🐛 7 | 🌐 MDX | 📅 2026-10-09 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 86 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
@@ -117,7 +117,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Miscellaneous
 
-* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 743 | 🐛 21 | 🌐 Haskell | 📅 2026-09-27 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
+* [relude](https://github.com/kowainik/relude/tree/main/hlint) ⭐ 743 | 🐛 22 | 🌐 Haskell | 📅 2026-09-27 - A custom Haskell Prelude that uses Dhall to generate rules for the HLint linter, see the [blog post](https://kowainik.github.io/posts/2018-09-09-dhall-to-hlint).
 
 ## Contributing
 
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
