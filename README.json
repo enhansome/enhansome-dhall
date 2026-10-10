@@ -1465,7 +1465,7 @@
             "language": "Dhall",
             "license": "MPL-2.0",
             "last_commit": "2026-03-28T18:16:16Z",
-            "open_issues": 19,
+            "open_issues": 0,
             "owner": "up-do",
             "repo": "updo",
             "stars": 9,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T18:31:44.799Z",
+    "last_updated": "2026-10-10T17:28:46.208Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",

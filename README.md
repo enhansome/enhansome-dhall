@@ -99,7 +99,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [hpack-dhall](https://github.com/cabalism/hpack-dhall) ⭐ 32 | 🐛 3 | 🌐 Dhall | 📅 2026-06-10 - Convert Haskell package descriptions in Dhall to the Cabal format.
 * [dhall-mock](https://github.com/dhall-mock/dhall-mock) ⭐ 22 | 🐛 9 | 🌐 Rust | 📅 2020-10-16 - A HTTP mock server based on Dhall configuration.
 * [resume](https://github.com/s-zeng/resume) ⭐ 12 | 🐛 1 | 🌐 Dhall | 📅 2023-09-05 - Generate résumé in a number of formats from a Dhall specification.
-* [updo](https://github.com/cabalism/updo) ⭐ 9 | 🐛 19 | 🌐 Dhall | 📅 2026-03-28 - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
+* [updo](https://github.com/cabalism/updo) ⭐ 9 | 🐛 0 | 🌐 Dhall | 📅 2026-03-28 - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
 * [cv-static](https://github.com/mstksg/cv-static) ⭐ 7 | 🐛 0 | 🌐 Dhall | 📅 2026-10-06 - Generate CV in HTML and PDF using Dhall.
 * [approportionment](https://github.com/akazukin5151/approportionment) ⭐ 6 | 🐛 0 | 🌐 Rust | 📅 2024-05-31 - [Yee diagram](https://electowiki.org/wiki/Yee_diagram) generator for multi-winner electoral methods designed for proportional representation, configured with Dhall.
 * [grafdhall](https://github.com/softwarefactory-project/grafdhall) ⭐ 1 | 🐛 0 | 🌐 Haskell | 📅 2022-10-20 - Takes Grafana dashboards in Dhall format, and submits them to a Grafana service.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
