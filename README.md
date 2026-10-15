@@ -49,9 +49,9 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,489 | 🐛 155 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,490 | 🐛 155 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 650 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
-* [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 126 | 🐛 12 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
+* [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 125 | 🐛 12 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
 * [dada](https://github.com/sellout/dada) ⭐ 67 | 🐛 9 | 🌐 Nix | 📅 2026-09-12 - Recursion schemes.
 * [dhall-bhat](https://github.com/FormationAI/dhall-bhat/) ⭐ 67 | 🐛 8 | 🌐 Shell | 📅 2023-08-16 - Abstractions.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
