@@ -84,7 +84,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
 * [dhall-spinnaker](https://github.com/zendesk/dhall-spinnaker) ⚠️ Archived - Dhall bindings to the Spinnaker Pipeline API.
 * [dhall-rook](https://github.com/jbellerb/dhall-rook) ⭐ 0 | 🐛 0 | 🌐 Nix | 📅 2024-11-05 - Dhall bindings for [Rook](https://rook.io/).
-* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,588 | 🐛 40 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
+* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,589 | 🐛 40 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
 * [dhall-css](https://github.com/fjij/dhall-css) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating CSS.
 * [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
 * [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
@@ -92,7 +92,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 732 | 🐛 7 | 🌐 MDX | 📅 2026-10-19 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 733 | 🐛 7 | 🌐 MDX | 📅 2026-10-21 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 86 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._

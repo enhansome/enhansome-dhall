@@ -1290,11 +1290,11 @@
             "id": 76434408,
             "language": "MDX",
             "license": "Zlib",
-            "last_commit": "2026-10-19T14:29:46Z",
+            "last_commit": "2026-10-21T17:34:44Z",
             "open_issues": 7,
             "owner": "Xe",
             "repo": "site",
-            "stars": 732,
+            "stars": 733,
             "topics": [
               "deno",
               "go",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T17:33:24.166Z",
+    "last_updated": "2026-10-21T17:40:47.736Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
