@@ -77,14 +77,14 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-security-txt](https://github.com/coralogix/dhall-security-txt) ⭐ 5 | 🐛 0 | 🌐 Dhall | 📅 2023-03-12 - Generate standard-compliant [security.txt](https://securitytxt.org/) files using Dhall.
 * [dhall-kong](https://github.com/RyanSiu1995/dhall-kong) ⭐ 2 | 🐛 0 | 🌐 Makefile | 📅 2019-05-01 - Dhall types definition for Kong declarative configuration file.
 * [dhall-sgf](https://github.com/TristanCacqueray/dhall-sgf) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2020-09-07 - Dhall support for the Smart Game Format.
-* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 464 | 🐛 87 | 🌐 Haskell | 📅 2026-10-04 Haskell source code formatter.
+* [fourmolu-dhall](https://github.com/Choi-Suhyeon/fourmolu-dhall/) ⭐ 2 | 🐛 0 | 🌐 Dhall | 📅 2026-01-17 - Dhall library for configuring the [Fourmolu](https://github.com/fourmolu/fourmolu/) ⭐ 465 | 🐛 87 | 🌐 Haskell | 📅 2026-10-04 Haskell source code formatter.
 * [dhall-tsconfig](https://github.com/maxdeviant/dhall-tsconfig) ⭐ 1 | 🐛 0 | 🌐 Dhall | 📅 2022-03-05 - Dhall bindings for [TSConfig](https://www.typescriptlang.org/tsconfig).
 * [dhall-html](https://github.com/fjij/dhall-html) ⭐ 1 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating HTML.
 * [dhall-openstacksdk](https://github.com/softwarefactory-project/dhall-openstacksdk) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-03-15 - Dhall types for OpenStack clouds.yaml.
 * [dhall-semaphore](https://github.com/maxdeviant/dhall-semaphore) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2021-06-08 - Dhall bindings for Semaphore CI.
 * [dhall-spinnaker](https://github.com/zendesk/dhall-spinnaker) ⚠️ Archived - Dhall bindings to the Spinnaker Pipeline API.
 * [dhall-rook](https://github.com/jbellerb/dhall-rook) ⭐ 0 | 🐛 0 | 🌐 Nix | 📅 2024-11-05 - Dhall bindings for [Rook](https://rook.io/).
-* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,591 | 🐛 40 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
+* [dhall-awsdac](https://github.com/ikaro1192/dhall-awsdac) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-05-30 - Dhall library for [awsdac](https://github.com/awslabs/diagram-as-code) ⭐ 1,590 | 🐛 40 | 🌐 Go | 📅 2026-09-16 to define AWS architecture diagrams as code.
 * [dhall-css](https://github.com/fjij/dhall-css) ⭐ 0 | 🐛 0 | 🌐 Dhall | 📅 2026-07-08 - Dhall library for generating CSS.
 * [dhall-genode](https://git.sr.ht/~ehmry/dhall-genode) - Genode OS configuration types and functions.
 * [dhall-webmanifest](https://gitlab.com/toastal/dhall-webmanifest) - Types for building Web Application Manifest files.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
