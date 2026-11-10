@@ -44,7 +44,7 @@
             "open_issues": 11,
             "owner": "Nadrieril",
             "repo": "dhall-rust",
-            "stars": 339,
+            "stars": 340,
             "topics": [
               "configuration-language",
               "dhall",
@@ -450,7 +450,7 @@
             "open_issues": 155,
             "owner": "dhall-lang",
             "repo": "dhall-lang",
-            "stars": 4493,
+            "stars": 4494,
             "topics": [
               "configuration-language",
               "dhall"
@@ -1290,8 +1290,8 @@
             "id": 76434408,
             "language": "MDX",
             "license": "Zlib",
-            "last_commit": "2026-11-09T10:42:09Z",
-            "open_issues": 13,
+            "last_commit": "2026-11-10T10:09:07Z",
+            "open_issues": 10,
             "owner": "Xe",
             "repo": "site",
             "stars": 733,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T22:43:22.522Z",
+    "last_updated": "2026-11-10T20:01:34.952Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
