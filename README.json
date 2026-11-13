@@ -1290,8 +1290,8 @@
             "id": 76434408,
             "language": "MDX",
             "license": "Zlib",
-            "last_commit": "2026-11-10T10:09:07Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-13T10:07:21Z",
+            "open_issues": 9,
             "owner": "Xe",
             "repo": "site",
             "stars": 734,
@@ -1390,8 +1390,8 @@
             "id": 119285014,
             "language": "Dhall",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-06-10T20:13:00Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-13T13:31:32Z",
+            "open_issues": 3,
             "owner": "cabalism",
             "repo": "hpack-dhall",
             "stars": 32,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T20:28:37.052Z",
+    "last_updated": "2026-11-13T20:04:55.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",

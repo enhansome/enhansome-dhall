@@ -92,11 +92,11 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 734 | 🐛 10 | 🌐 MDX | 📅 2026-11-10 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 734 | 🐛 9 | 🌐 MDX | 📅 2026-11-13 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 86 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
-* [hpack-dhall](https://github.com/cabalism/hpack-dhall) ⭐ 32 | 🐛 4 | 🌐 Dhall | 📅 2026-06-10 - Convert Haskell package descriptions in Dhall to the Cabal format.
+* [hpack-dhall](https://github.com/cabalism/hpack-dhall) ⭐ 32 | 🐛 3 | 🌐 Dhall | 📅 2026-11-13 - Convert Haskell package descriptions in Dhall to the Cabal format.
 * [dhall-mock](https://github.com/dhall-mock/dhall-mock) ⭐ 22 | 🐛 9 | 🌐 Rust | 📅 2020-10-16 - A HTTP mock server based on Dhall configuration.
 * [resume](https://github.com/s-zeng/resume) ⭐ 12 | 🐛 1 | 🌐 Dhall | 📅 2023-09-05 - Generate résumé in a number of formats from a Dhall specification.
 * [updo](https://github.com/cabalism/updo) ⭐ 10 | 🐛 19 | 🌐 Dhall | 📅 2026-03-28 - From Dhall configuration, generate Stack and Cabal projects with Dhall text templating.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
