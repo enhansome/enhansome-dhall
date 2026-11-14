@@ -1294,7 +1294,7 @@
             "open_issues": 9,
             "owner": "Xe",
             "repo": "site",
-            "stars": 734,
+            "stars": 735,
             "topics": [
               "deno",
               "go",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T20:04:55.885Z",
+    "last_updated": "2026-11-14T18:31:10.204Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
