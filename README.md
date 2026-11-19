@@ -49,7 +49,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Libraries
 
-* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,496 | 🐛 156 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
+* [dhall-prelude](https://github.com/dhall-lang/dhall-lang/tree/master/Prelude) ⭐ 4,497 | 🐛 156 | 🌐 Dhall | 📅 2026-10-06 - Standard Libraries for dhall.
 * [dhall-kubernetes](https://github.com/dhall-lang/dhall-kubernetes) ⭐ 650 | 🐛 15 | 🌐 Dhall | 📅 2026-03-29 - Typecheck, template and modularize your Kubernetes definitions with Dhall.
 * [regadas/github-actions-dhall](https://github.com/regadas/github-actions-dhall) ⭐ 125 | 🐛 12 | 🌐 Dhall | 📅 2025-02-01 - Typecheck, template and modularize your GitHub Action definitions with Dhall.
 * [dhall-ansible](https://github.com/softwarefactory-project/dhall-ansible) ⭐ 68 | 🐛 3 | 🌐 Dhall | 📅 2024-06-30 - Dhall types for Ansible.
@@ -60,7 +60,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 * [dhall-terraform](https://github.com/blast-hardcheese/dhall-terraform) ⭐ 48 | 🐛 1 | 📅 2018-11-28 - Tooling to manage complexity and increase discoverability in Terraform by writing in Dhall.
 * [dhall-nethack](https://github.com/dhall-lang/dhall-nethack) ⭐ 40 | 🐛 5 | 🌐 Dhall | 📅 2021-07-22 - Generate NetHack configurations using Dhall.
 * [dhall-dot](https://github.com/Gabriel439/dhall-dot) ⭐ 38 | 🐛 0 | 🌐 Dhall | 📅 2022-09-05 - Dhall types and renderer for the DOT Graph description language.
-* [dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile) ⭐ 33 | 🐛 1 | 🌐 Dhall | 📅 2021-10-26 - Dhall types for Containerfile.
+* [dhall-containerfile](https://github.com/softwarefactory-project/dhall-containerfile) ⭐ 33 | 🐛 0 | 🌐 Dhall | 📅 2021-10-26 - Dhall types for Containerfile.
 * [dhall-aws-cloudformation](https://github.com/jcouyang/dhall-aws-cloudformation) ⭐ 32 | 🐛 0 | 🌐 Haskell | 📅 2024-03-03 - Dhall types for AWS CloudFormation
 * [dhall-grafana](https://github.com/weeezes/dhall-grafana) ⭐ 29 | 🐛 2 | 🌐 Dhall | 📅 2024-01-24 - Build Grafana dashboards with Dhall.
 * [dhall-docker-compose](https://github.com/sbdchd/dhall-docker-compose) ⭐ 26 | 🐛 1 | 🌐 Dhall | 📅 2026-07-31 - A library for writing Docker Compose files in Dhall.
@@ -92,7 +92,7 @@ A curated list of awesome dhall-lang binding, libraries and anything related to 
 
 ## Projects
 
-* [Xe/site](https://github.com/Xe/site) ⭐ 735 | 🐛 8 | 🌐 MDX | 📅 2026-11-18 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
+* [Xe/site](https://github.com/Xe/site) ⭐ 734 | 🐛 9 | 🌐 MDX | 📅 2026-11-18 - a [personal site](https://xeiaso.net) using Dhall in a substantial way.
 * [podenv](https://github.com/podenv/podenv) ⭐ 86 | 🐛 5 | 🌐 Haskell | 📅 2026-08-11 - A container runtime wrapper using Dhall to define functional environments.
 * [cpkg](https://github.com/vmchale/cpkg) ⚠️ Archived - A build tool/package manager for C, configured with Dhall.
 * [RuneSlayer](https://github.com/MaxOw/RuneSlayer) ⭐ 38 | 🐛 2 | 🌐 Haskell | 📅 2019-11-17 - A role-playing game meant to help learning a natural language.
@@ -126,4 +126,4 @@ Please conduct the [CONTRIBUTING.md](CONTRIBUTING.md) before submitting the pull
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

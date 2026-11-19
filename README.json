@@ -450,7 +450,7 @@
             "open_issues": 156,
             "owner": "dhall-lang",
             "repo": "dhall-lang",
-            "stars": 4496,
+            "stars": 4497,
             "topics": [
               "configuration-language",
               "dhall"
@@ -697,7 +697,7 @@
             "language": "Dhall",
             "license": null,
             "last_commit": "2021-10-26T14:28:18Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "softwarefactory-project",
             "repo": "dhall-containerfile",
             "stars": 33,
@@ -1291,10 +1291,10 @@
             "language": "MDX",
             "license": "Zlib",
             "last_commit": "2026-11-18T15:35:15Z",
-            "open_issues": 8,
+            "open_issues": 9,
             "owner": "Xe",
             "repo": "site",
-            "stars": 735,
+            "stars": 734,
             "topics": [
               "deno",
               "go",
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T20:55:05.075Z",
+    "last_updated": "2026-11-19T20:59:41.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
