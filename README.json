@@ -1290,8 +1290,8 @@
             "id": 76434408,
             "language": "MDX",
             "license": "Zlib",
-            "last_commit": "2026-11-23T10:11:17Z",
-            "open_issues": 10,
+            "last_commit": "2026-11-27T10:08:09Z",
+            "open_issues": 8,
             "owner": "Xe",
             "repo": "site",
             "stars": 734,
@@ -1720,7 +1720,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T21:57:28.076Z",
+    "last_updated": "2026-11-27T21:39:47.106Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome dhall-lang",
